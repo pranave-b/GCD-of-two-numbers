@@ -39,7 +39,7 @@ def gcd():
 
 ## Output:
 
-![github logo](GCD1.PNG)
+![github logo](gcd.PNG)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
